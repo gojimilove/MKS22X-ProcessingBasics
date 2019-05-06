@@ -79,6 +79,6 @@ void setup() {
 }
 void draw() {
   background(255);
-  v.display(500, 400);
+  v.display(400, 200);
   v.update();
 }
