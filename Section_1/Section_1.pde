@@ -14,7 +14,8 @@ class Visualizer {
   Visualizer(float x, float y) {
     this.x = x;
     this.y = y;
-    size = int(random(1, 41));
+    //size = int(random(1, 41));
+    size = 40;
     values = new float[size];
     speeds = new float[size];
     for (int i = 0; i < values.length; i++) {
