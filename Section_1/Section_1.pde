@@ -2,6 +2,7 @@ int MAX_VALUE = 100;
 int MIN_VALUE = -100;
 Visualizer v;
 
+//test
 /*You are simulating a visualizer of multiple values
  You need to create a display method first. 
  Then you can make a method that changes the values each time the update is called. 
